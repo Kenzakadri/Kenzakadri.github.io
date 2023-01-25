@@ -6,8 +6,6 @@ profile:
   image: profile.png
 published: true
 ---
-Hiiiiii
-
  
 I am a final year PhD student in Computational neuroscience in the [Fouragnan lab](https://www.elsa-fouragnan.com/) at the University of Plymouth.
 
@@ -21,10 +19,4 @@ I began my university training with a bachelor's degree in Psychology. I have im
 After these very complementary studies, to me something essential was missing in order to understand some brain functions. In my opinion, to figure out a system as the brain, it is crucial to model it, to study the relations and interactions between the parts of this system, that’s why I specialized in system biology. Durint this master I specialised in <font color="green"> big data analysis, computational neurosciences </font> and <font color="green"> modeling </font>.
 
 
-### Also, check out:
-
-<a href="https://github.com/Kenzakadri/Kenzakadri.github.io/blob/master/assets/docs/CVKenzaKADRI_postdoc.pdf" target="_blank">PDF.</a>
-
-
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+### Feel free to check my <a href="https://kenzakadri.github.io/assets/docs/CVKenzaKADRI_postdoc.pdf" target="_blank">RESUME</a>
