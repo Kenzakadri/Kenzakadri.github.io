@@ -3,8 +3,8 @@
 title: Kenza Kadri
 description: PhD student | University of Plymouth
 
-baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl: "/" #name of GitHub repository
+url: "https://kenzakadri.github.io"
 email: #
 
 # Pagination
