@@ -21,5 +21,8 @@ After these very complementary studies, to me something essential was missing in
 
 ### Also, check out:
 
+<a href="https://github.com/Kenzakadri/Kenzakadri.github.io/blob/master/assets/docs/CVKenzaKADRI_postdoc.pdf" target="_blank">PDF.</a>
+
+
 - [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
 - [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
