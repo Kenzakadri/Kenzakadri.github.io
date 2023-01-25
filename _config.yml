@@ -46,9 +46,10 @@ collections:
       - shortProject.md
       - longerProjectTitle.md
       - redirect.md
-      - project4.md
       - project5.md
       - project6.md
+      - project4.md
+
 
 sass:
   sass_dir: /assets/css/_sass
