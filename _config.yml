@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Kenza Kadri
+description: PhD student | University of Plymouth
 
 baseurl: /gradfolio #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -13,15 +13,10 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+twitter: "KenzaKADRI4"
+linkedin: "kenza-kadri-723a93170"
+github: "kenzakadri"
+researchgate: "Kenza-Kadri"
 
 
 # Markdown
