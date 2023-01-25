@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Linking transdiagnostic biomarkers to credit assignment impairment in Humans
-description: short project description
+description: Online study that includes a probabilistic decision-making task and questionnaires on n=300 participants 
 ---
 
 Debriefing

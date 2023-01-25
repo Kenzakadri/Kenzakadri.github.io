@@ -19,4 +19,3 @@ I began my university training with a bachelor's degree in Psychology. I have im
 After these very complementary studies, to me something essential was missing in order to understand some brain functions. In my opinion, to figure out a system as the brain, it is crucial to model it, to study the relations and interactions between the parts of this system, that’s why I specialized in system biology. Durint this master I specialised in <font color="green"> big data analysis, computational neurosciences </font> and <font color="green"> modeling </font>.
 
 
-### Feel free to check my <a href="https://kenzakadri.github.io/assets/docs/CVKenzaKADRI_postdoc.pdf" target="_blank">RESUME</a>
