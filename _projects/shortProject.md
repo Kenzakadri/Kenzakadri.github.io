@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Differential striatal subdivision network underly the use of various drugs and are relatd with  impulsivituy
+description: Linking addiction biomarkers to the connectivity profile of striatum subdivision using resting-state functional MRI (rs-fMRI) as well as questionnaires from the Human Connectome Project database (n=510) 
 ---
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 

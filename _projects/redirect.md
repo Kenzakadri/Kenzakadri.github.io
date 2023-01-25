@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
-redirect: https://unsplash.com
+title: The neural substrates of decision-making in alcohol addiction
+description: fMRI-based study
+
 ---
