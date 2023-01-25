@@ -6,7 +6,9 @@ profile:
   image: profile.png
 published: true
 ---
+Hiiiiii
 
+ 
 I am a final year PhD student in Computational neuroscience in the [Fouragnan lab](https://www.elsa-fouragnan.com/) at the University of Plymouth.
 
 
