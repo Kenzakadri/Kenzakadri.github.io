@@ -1,0 +1,31 @@
+/* Publications Page */
+.publications {
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: 1rem 0;
+}
+
+.pub-entry {
+  margin-bottom: 2rem;
+}
+
+.pub-title {
+  margin: 0 0 0.25rem;
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.pub-authors {
+  margin: 0;
+  color: $text-color;
+
+  @media (prefers-color-scheme: dark) {
+    color: $text-color-dark;
+  }
+}
+
+.pub-venue {
+  margin: 0;
+  font-style: italic;
+  color: $light-gray;
+}
