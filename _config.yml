@@ -5,7 +5,7 @@ description: Postdoctoral Researcher | University of Tübingen
 
 baseurl: "" #name of GitHub repository
 url: "https://kenzakadri.github.io"
-email: #
+email: kenza.kadri@uni-tuebingen.de
 
 # Pagination
 paginate: 4
