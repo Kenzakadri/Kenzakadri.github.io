@@ -2,6 +2,7 @@
 layout: post
 title: Midbrain Dopaminergic State Influences Reward Learning Maintenance but Not Acquisition
 description: Real-time fMRI study probing how spontaneous fluctuations in dopaminergic midbrain activity shape reward learning (in prep)
+affiliation: Tuebingen
 ---
 
 Abstract

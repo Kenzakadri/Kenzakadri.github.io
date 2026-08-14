@@ -5,6 +5,14 @@
   padding: 2rem;
 }
 
+.ProjectSectionTitle {
+  margin: 2rem 0 1rem;
+
+  &:first-child {
+    margin-top: 0;
+  }
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;

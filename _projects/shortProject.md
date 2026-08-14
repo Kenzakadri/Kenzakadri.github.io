@@ -2,6 +2,7 @@
 layout: post
 title: Differential striatal subdivision network underly the use of various drugs and are relatd with  impulsivituy
 description: Linking addiction biomarkers to the connectivity profile of striatum subdivision using resting-state functional MRI (rs-fMRI) as well as questionnaires from the Human Connectome Project database (n=510) 
+affiliation: Plymouth
 ---
 
 Abstract

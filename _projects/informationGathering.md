@@ -2,6 +2,7 @@
 layout: post
 title: Dorsomedial prefrontal cortex acts as an integrative hub during information gathering
 description: fMRI study of the behavioural and neural mechanisms guiding information gathering before choice (submitted)
+affiliation: Tuebingen
 ---
 
 Abstract
