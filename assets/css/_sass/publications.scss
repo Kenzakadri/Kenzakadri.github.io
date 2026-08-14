@@ -9,3 +9,15 @@
 .pub-entry {
   margin-bottom: 1rem;
 }
+
+/* Resume Page */
+.ResumeContainer {
+  max-width: $content-width;
+  margin: 0 auto;
+  padding: 1rem 0;
+
+  embed {
+    display: block;
+    border-radius: 8px;
+  }
+}

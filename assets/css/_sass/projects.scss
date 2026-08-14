@@ -32,6 +32,12 @@
   width: 100%;
   overflow: hidden;
   display: table;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 0.2s ease;
+}
+
+.projectTile:hover {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
 }
 
 .projectTile a {
@@ -47,7 +53,8 @@
 }
 
 .projectTile a span h2 {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
   padding: 1rem;
   color: $projectbox-text;
 }
@@ -61,7 +68,7 @@
 }
 
 .projectTile:hover a span p {
-  font-size: 1.2rem;
+  font-size: 0.95rem;
   display: flex;
   padding: 1rem;
   color: $projectbox-text;
@@ -75,7 +82,7 @@
     }
 
     .projectTile a span h2 {
-      font-size: 1.2rem;
+      font-size: 0.95rem;
     }
 
     .projectTile:hover a span p {
@@ -98,7 +105,7 @@
     }
 
     .projectTile a span h2 {
-      font-size: 1.3rem;
+      font-size: 1rem;
     }
 
     .projectTile:hover a span p {
