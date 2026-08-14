@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Differential striatal subdivision network underly the use of various drugs and are relatd with  impulsivituy
-description: Linking addiction biomarkers to the connectivity profile of striatum subdivision using resting-state functional MRI (rs-fMRI) as well as questionnaires from the Human Connectome Project database (n=510) 
+description: Linking addiction biomarkers to the connectivity profile of striatum subdivision using resting-state functional MRI (rs-fMRI) as well as questionnaires from the Human Connectome Project database (n=510) (in prep, 2021)
 affiliation: Plymouth
 ---
 
-Abstract
-============
+<p class="project-meta"><strong>K Kadri</strong>, J Scholl, D Jensen, M Klein-Flügge, E Fouragnan &middot; 2021 &middot; in prep</p>
+
+<p class="section-label">Abstract</p>
 Examining a dimensional approach to addiction - and mental disorder in general - is essential for refining possible treatments and prevention strategies. This is particularly important because there is significant disorder heterogeneity across addictions to different substances. One promising avenue to inform this approach is to advance our understanding of large-scale variation in neurobiological circuits related to different substance addictions. In this new study, we aim to capitalise on the natural variation in 1. latent behaviours related to different substances as well as 2. connectivity profiles of several subdivisions of the striatum - the main subcortical hub for reward processing - in a large population from the Human Connectome Project (HCP). We used factor analysis on HCP questionnaire answers to extract dimensions of addiction and impulsivity. We identified three addiction-related factors underlying general variation in (i) tobacco use, (ii) alcohol consumption, (iii) illicit drugs, as well as a transdiagnostic factor defining (iv) impulsivity. We explored variation in functional brain connectivity related to these behavioural factors by using 23 cortical and 13 subcortical regions anatomically or functionally known to be strongly linked to the striatum to infer their resting-state Functional Connectivity (FC) with  10 striatum subdivisions. Our results show a reliable relationship between the connectivity of some striatal subdivisions and three addiction-related latent behaviours, tobacco and alcohol, illicit drug, as well as impulsivity. In particular, we found a significant link between nuclei of the anterior putamen and other subcortical regions in the prediction of alcohol abuse. In addition, we identified a role for the caudate body in the prediction of tobacco use the vmPFC and ACC in the prediction of illicit drug use. We also highlighted the importance of a precise portion of the anterior cingulate cortex (region 32pr) and of the anterior part of the superior temporal sulcus in the prediction of impulsivity. Built on the effectiveness of large-scale imaging and online data collected in the general population, these findings provided a reliable link between precise anatomical relationships and markers of addiction.
 
 <embed src="https://kenzakadri.github.io/assets/docs/PosterFENS.pdf" width="1000" height="600" />
