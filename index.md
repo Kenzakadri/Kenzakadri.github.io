@@ -16,3 +16,6 @@ I completed my PhD in Computational neuroscience in the [Fouragnan lab](https://
 I hold bachelor's degrees in Psychology and Biology, and a master's in <font color="#16868e"><strong>big data, computational neuroscience</strong></font> and <font color="#16868e">modeling</font>.
 
 
+My research combines <font color="#16868e">computational modelling</font>, neuroimaging and behavioural data to understand the mechanisms of <font color="#16868e">impulsivity, decision-making and reward processing</font>, and how they go awry in psychiatric conditions such as addiction and psychosis. I am particularly interested in transdiagnostic and developmental approaches that link computational markers of behaviour to their neural and clinical correlates, and in building open, theory-driven modelling tools for the computational psychiatry community.
+
+
